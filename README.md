@@ -32,10 +32,9 @@ fun_fact: I'm also a YouTube content creator!
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivananda8051&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi Kulkarni&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivananda8051&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi Kulkarni&custom_title=Sakshi%20Contribution%20Graph&theme=radical&hide_border=true&bg_color=0D1117&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" width="100%"/>
 
