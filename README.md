@@ -32,13 +32,13 @@ fun_fact: I'm also a YouTube content creator!
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi Kulkarni&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SakshiKulkarni866&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiKulkarni866&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi Kulkarni&custom_title=Sakshi%20Contribution%20Graph&theme=radical&hide_border=true&bg_color=0D1117&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiKulkarni866&custom_title=Sakshi%20Contribution%20Graph&theme=radical&hide_border=true&bg_color=0D1117&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shivananda8051&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SakshiKulkarni866&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" width="100%"/>
 
 </div>
 
@@ -117,7 +117,7 @@ fun_fact: I'm also a YouTube content creator!
 <div align="center">
 
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivananda8051&repo=Shivananda8051&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshiKulkarni866&repo=SakshiKulkarni866&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
@@ -183,14 +183,14 @@ fun_fact: I'm also a YouTube content creator!
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivananda8051/Shivananda8051/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivananda8051/Shivananda8051/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shivananda8051/Shivananda8051/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshiKulkarni866/SakshiKulkarni866/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakshiKulkarni866/SakshiKulkarni866/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SakshiKulkarni866/SakshiKulkarni866/output/github-snake-dark.svg" />
 </picture>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shivananda8051&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SakshiKulkarni866&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
