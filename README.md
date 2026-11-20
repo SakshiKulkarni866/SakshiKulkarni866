@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivananda%20Kupnoor&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakshi%20Kulkarni&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> **Welcome to my GitHub!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
