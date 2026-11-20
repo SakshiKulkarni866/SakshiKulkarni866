@@ -4,10 +4,6 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> **Welcome to my GitHub!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivanandakupnoor-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanandakupnoor)
-[![GitHub](https://img.shields.io/badge/GitHub-Shivananda8051-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivananda8051)
-[![Gmail](https://img.shields.io/badge/Gmail-shivanandakupnoor-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanandakupnoor@gmail.com)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&lines=Entry-Level+Software+Engineer+%F0%9F%92%BB;Full-Stack+Web+Developer+%F0%9F%8C%90;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%26+LLM+Integrator+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -17,11 +13,8 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Shivananda Kupnoor
+name:  Sakshi Kulkarni
 located_in: Bengaluru, India
-education: B.Tech @ GITAM University (CGPA: 8.38)
-current_role: Member @ AXR Lab
-clubs: CySec Club | CQC Club
 
 fields_of_interest:
   - Full-Stack Web Development
